@@ -1,4 +1,4 @@
-# 
+# Ligero futures arbitrage bot preajustes para Mac OS | Nativo futures arbitrage bot preajustes para PC Windows. Con protección contra front-running y detección de ruptura — optimizado para el máximo rendimiento en cada plataforma.
 
 
 
